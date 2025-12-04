@@ -34,6 +34,7 @@ Il negozio offre prodotti selezionati con cura, esperienze uniche e un servizio 
 ├─ icons/        # Icone per il sito
 ├─ assets/       # Risorse aggiuntive
 └─ contact.html  # Pagina contatti
+```
 
 ## 🎯 Obiettivo del progetto
 Creare una presenza online per il negozio Le Favole, offrendo informazioni chiare, visibilità dei prodotti e un contatto diretto con i clienti.
