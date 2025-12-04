@@ -42,4 +42,4 @@ Creare una presenza online per il negozio Le Favole, offrendo informazioni chiar
 ## 📝 Licenza
 Questo progetto è distribuito sotto licenza **MIT**.  
 Leggi il file completo qui:  
-[LICENSE](https://github.com/CrrTweaks/LeFavole/LICENSE)
+[LICENSE](https://github.com/CrrTweaks/LeFavole/blob/main/LICENSE)
