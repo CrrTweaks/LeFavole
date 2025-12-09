@@ -3,7 +3,7 @@ Sito web ufficiale del negozio **Le Favole**, situato a Nocera Inferiore.
 Il negozio offre prodotti selezionati con cura, esperienze uniche e un servizio clienti attento. Il sito presenta informazioni sul negozio, catalogo prodotti e contatti.
 
 ## 🌐 Sito Online
-👉 [lefavole-nocera.it](https://www.lefavole-nocera.it) *(esempio, inserire link reale se disponibile)*
+👉 [lefavole-nocera.it](https://www.lefavole-nocera.it)
 
 ## 🚀 Funzionalità Principali  
 - **Vetrina prodotti**  
